@@ -1,0 +1,271 @@
+@charset "utf-8";
+body {
+    background-color: #FFFFFF;
+    background-size: contain;
+    background-attachment: fixed;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: small;
+    background-image: url(../images/awb-website-background02.jpg);
+    margin-bottom: 70px;
+}
+body p {
+}
+.section-next-concert-tile {
+    padding-left: 1%;
+    padding-right: 1%;
+    margin-right: 1%;
+    margin-left: 5%;
+    float: left;
+    background-color: rgba(255,255,255,0.85);
+    padding-top: 10%;
+    width: 25%;
+    display: block;
+}
+.content-h1-title {
+    width: 90%;
+    margin-top: 0px;
+    margin-left: 5%;
+    margin-right: 1%;
+    padding-top: 10%;
+    padding-right: 1%;
+    padding-left: 0%;
+    background-color: rgba(255,255,255,0.85);
+    color: rgba(71,91,148,1.00);
+}
+.content-page-text {
+    width: 32%;
+    margin-left: 5%;
+    margin-right: 1%;
+    /* [disabled]padding-top: 1%; */
+    /* [disabled]padding-left: 1%; */
+    /* [disabled]padding-right: 1%; */
+    float: left;
+    background-color: rgba(255,255,255,0.85);
+    color: rgba(130,130,130,1.00);
+    padding-bottom: 70px;
+}
+.membership-content-page-text {
+    width: 25%;
+    margin-left: 5%;
+    /* [disabled]padding-top: 1%; */
+    /* [disabled]padding-left: 1%; */
+    /* [disabled]padding-right: 1%; */
+    float: left;
+    background-color: rgba(255,255,255,0.85);
+    color: rgba(130,130,130,1.00);
+    display: block;
+    padding-bottom: 1%;
+    margin-right: 1%;
+}
+.membership-list-text {
+    float: left;
+    color: rgba(130,130,130,1.00);
+    margin-left: 5%;
+    margin-right: 1%;
+    list-style-type: none;
+    background-color: rgba(255,255,255,0.85);
+    padding-bottom: 70px;
+
+
+}
+.membership-list-text-ul  {
+    list-style-type: none;
+    background-color: rgba(255,255,255,0.85);
+}
+.section-members-list {
+    background-color: rgba(255,255,255,0.85);
+    clear: left;
+    margin-left: 0px;
+    position: static;
+    margin-bottom: 70px;
+}
+
+
+
+.section-scholarship-tile {
+    clear: none;
+    width: 24%;
+    left: 1%;
+    right: 1%;
+    padding-left: 1%;
+    margin-left: 5%;
+    padding-right: 1%;
+    float: left;
+    background-color: rgba(255,255,255,0.85);
+    margin-right: 1%;
+    padding-top: 10%;
+    display: block;
+}
+.section-advertise-tile {
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 24%;
+    left: 1%;
+    right: 1%;
+    clear: none;
+    float: left;
+    background-color: rgba(255,255,255,0.85);
+    margin-left: 5%;
+    margin-right: 1%;
+    padding-top: 10%;
+    display: block;
+}
+.body-section-p   {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 95%;
+    padding-left: 1%;
+    padding-right: 1%;
+    float: left;
+    padding-top: 10%;
+    background-color: rgba(255,255,255,0.85);
+    padding-bottom: 85px;
+}
+.nav {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 1em;
+    background-color: rgba(71,91,148,1.00);
+}
+.navlist  {
+    color: rgba(130,130,130,1.00);
+    list-style-type: none;
+    overflow: hidden;
+    text-decoration: overline;
+    background-color: rgba(255,255,255,1.00);
+    border-top: thin solid rgba(71,91,148,1.00);
+    border-bottom: thin solid rgba(71,91,148,1.00);
+    width: 100%;
+}
+.navlistitem {
+    float: left;
+}
+.navlistitem link {
+    text-decoration: none;
+
+}
+
+
+
+.group-image {
+    margin-left: auto;
+    margin-right: auto;
+    clear: none;
+    float: left;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-shadow: 0px 0px #000000;
+    -webkit-box-shadow: 0 0px;
+    box-shadow: 0 0px;
+    padding-top: 15px;
+    padding-right: 90px;
+    padding-bottom: 90px;
+    padding-left: 90px;
+    width: 90%;
+    display: block;
+}
+#copyright p {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: x-small;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 65px;
+    width: 100%;
+    color: #878787;
+    line-height: 1.5;
+    padding-left: 10px;
+    margin-bottom: -3px;
+    background-color: rgba(255,255,255,1.00);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 2px;
+}
+
+
+
+.awb-logo {
+    border-width: thin;
+    border-color: rgba(0,0,129,1.00);
+    margin-right: 15px;
+    margin-left: 15px;
+    width: 100%;
+    text-align: center;
+    padding-right: 0px;
+    position: fixed;
+    background-color: rgba(255,255,255,1.00);
+    padding-top: 0px;
+    top: 0%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.navlistitem a {
+    text-decoration: none;
+    display: block;
+    padding-top: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    color: rgba(130,130,130,1.00);
+
+}
+.navlistitem a:hover {
+    color: rgba(255,255,255,1.00);
+    background-color: rgba(71,91,148,1.00);
+}
+.body hr {
+    border-color: rgba(71,91,148,1.00);
+    background-color: rgba(71,91,148,1.00);
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+
+}
+.section-next-concert-tile img {
+    text-align: center;
+    background-color: rgba(255,255,255,0.75);
+}
+.content-page-image {
+    width: 42%;
+    margin-left: 1%;
+    margin-right: 5%;
+    padding-left: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    float: right;
+    color: rgba(130,130,130,1.00);
+    background-color: rgba(255,255,255,0.85);
+}
+.sponsor-list {
+    list-style-type: none;
+
+}
+
+.content-page-text-only {
+    background-color: rgba(255,255,255,0.85);
+    width: 92%;
+    margin-left: 5%;
+    margin-right: 1%;
+    padding-top: 1%;
+    padding-right: 1%;
+    padding-left: 1%;
+    color: rgba(130,130,130,1.00);
+    padding-bottom: 70px;
+}
+.tile-title-h2-text {
+    color: rgba(71,91,148,1.00);
+}
+.image-centered {
+    margin-right: auto;
+    margin-left: auto;
+    position: static;
+    display: block;
+
+}
+.section-teaser-pages {
+    margin-top: 10%;
+    margin-bottom: 0px;
+    background-color: rgba(255,255,255,0.85);
+    width: 61%;
+}
