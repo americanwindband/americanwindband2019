@@ -165,7 +165,7 @@ body p {
     width: 90%;
     display: block;
 }
-#copyright p {
+.copyright {
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: x-small;
     position: fixed;
@@ -178,9 +178,10 @@ body p {
     padding-left: 10px;
     margin-bottom: -3px;
     background-color: rgba(255,255,255,1.00);
-    text-align: center;
     margin-top: 10px;
     padding-top: 2px;
+    align-content: center;
+    text-align: center;
 }
 
 
